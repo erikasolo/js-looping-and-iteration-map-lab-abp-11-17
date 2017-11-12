@@ -1,8 +1,8 @@
 // Code your solution in this file.
 const drivers = ['Bobby', 'Sammy', 'Sally', 'Annette', 'Sarah', 'Bobby'];
 function lowerCaseDrivers(drivers){
-  return array.map(function(e)){
-    return e. toLowerCase()
+  return drivers.map(function(driver)){
+    return driver. toLowerCase()
   })
 
 }
